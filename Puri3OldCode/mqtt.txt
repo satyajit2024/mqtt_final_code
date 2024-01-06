@@ -1,0 +1,7 @@
+with open('./config.json') as json_file:
+            data = json.load(json_file)
+            deviceid=data["deviceCommuncationId"]
+            # a = eval(deviceid)
+            for i in deviceid:
+                # print(i)
+                dt["deviceId"]= i
