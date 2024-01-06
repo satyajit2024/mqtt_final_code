@@ -2,6 +2,7 @@ from mqtt import MqttConnect
 import threading
 
 mq = MqttConnect()
+mq.topic = "661526019560586"
 if __name__ == '__main__':
     t1 = threading.Thread(target=mq.post_data_to_publish)
     t2 = threading.Thread(target=mq.data_subscribe)

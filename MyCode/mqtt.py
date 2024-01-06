@@ -4,6 +4,7 @@ import time
 from paho.mqtt.client import Client
 import json
 from datetime import datetime
+import threading
 
 class MqttConnect:
     def __init__(self):
@@ -18,7 +19,7 @@ class MqttConnect:
         self._client.on_log=self._log_message
         self._client.on_disconnect=self._on_disconnect
         self._client.connect_fail_callback=self._connect_fail_callback
-        self.topic = "661526019560586"
+        self.topic = ""
     
     def _on_disconnect(self,userdata,flags,rc=0):
         print("Disconnected "+str(rc))
@@ -75,11 +76,10 @@ class MqttConnect:
             time.sleep(1)
 
 
-
     def data_subscribe(self):
         def on_sub_connect(client, userdata, flags, rc):
             if rc == 0:
-                client.subscribe("661526019560586/data")
+                client.subscribe("661526019560586")
             else:
                 pass 
 
@@ -94,13 +94,12 @@ class MqttConnect:
                 f.write(str(data[0]["status"]))
                 
         while True:
-            if __name__ == "__main__":
-                mqtt_client = Client()
-                mqtt_client.on_connect = on_sub_connect
-                mqtt_client.on_message = on_sub_message
-                mqtt_client.username_pw_set(self._username, self._password)
-                mqtt_client.connect(self._mqttBroker, self._port)
-                mqtt_client.loop_start()
+            mqtt_client = Client()
+            mqtt_client.on_connect = on_sub_connect
+            mqtt_client.on_message = on_sub_message
+            mqtt_client.username_pw_set(self._username, self._password)
+            mqtt_client.connect(self._mqttBroker, self._port)
+            mqtt_client.loop_start()
             try: 
                 while True:
                     pass
