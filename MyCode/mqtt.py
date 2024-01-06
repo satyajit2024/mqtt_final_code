@@ -4,7 +4,7 @@ import time
 from paho.mqtt.client import Client
 import json
 from datetime import datetime
-import threading
+
 
 class MqttConnect:
     def __init__(self):
