@@ -1,11 +1,10 @@
-from mqtt import MqttConnect
+from mqtt_update import MqttConnect
 import time
 from datetime import datetime
 from random import uniform
 import json
 from paho.mqtt.client import Client
 import threading
-from main import MqttConnect
 
 
 mq = MqttConnect()
