@@ -4,6 +4,7 @@ from datetime import datetime
 
 class MqttConnect:
     def __init__(self):
+        self.topic = []
         self._connected = False
         self._client = Client("MQTT")
         self._mqttBroker = "4.240.114.7"
@@ -15,7 +16,6 @@ class MqttConnect:
         self._client.on_log = self.log_message
         self._client.on_disconnect = self.on_disconnect
         self._client.connect_fail_callback = self.connect_fail_callback
-        self.topic = ""
 
 
     def on_connect(self, client, userdata, flags, rc):
@@ -23,7 +23,8 @@ class MqttConnect:
         if rc == 0:
             print("Client Is Connected")
             self._connected = True
-            client.subscribe(self.topic)
+            for t in self.topic:
+                client.subscribe(t)
         else:
             print("Connection Failed")
 
@@ -36,12 +37,10 @@ class MqttConnect:
         self._connected = False
 
     def log_message(self, message):
-        print("log: " + message)
         try:
-            with open("mqtt_logs.log", "a") as log_file:
-                log_file.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - {message}\n")
+            print("log: " + message)
         except Exception as e:
-            print(f"Error writing to log file: {e}")
+            print("Error" + str(e))
 
     def on_message(self, client, userdata, message):
         self.log_message("Received message: " + str(message.payload.decode("utf-8")))
@@ -58,8 +57,7 @@ class MqttConnect:
         if not self._connected:
             self.log_message("Not connected to the broker.")
             return
-
-        publish_topic = self.topic
+        publish_topic = publish_data["deviceId"]
         publish_data = json.dumps(publish_data)
         self._client.publish(publish_topic + "/data", publish_data)
         self.log_message(f"Just published {str(publish_data)} to {publish_topic}")
@@ -68,12 +66,9 @@ class MqttConnect:
         global status
         data = json.loads(message.payload.decode('utf-8'))
         status = data[0]["status"]
-        current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        topic = message.topic
         print(f"Received message: {data}")
         print(f"status val :---{status}")
-        with open("status.txt", 'a') as f:
-            f.write(f"{current_time} - Status: {status}, Topic: {topic}\n")
+        
     
     def open_file(self , file_name):
         if file_name.lower().endswith(".json"):

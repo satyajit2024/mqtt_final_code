@@ -9,7 +9,7 @@ from main import MqttConnect
 
 
 mq = MqttConnect()
-mq.topic = "324164884510875"
+mq.topic = ["661526019560586","324164884510875"]
 mqttBroker = "4.240.114.7"
 port = 1883
 username = "BarifloLabs"
@@ -22,9 +22,11 @@ def post_data_to_publish():
         now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         rand_num = uniform(1.0, 2.0)
         rand_num2 = uniform(1.0, 2.0)
-        mq.data_publish({"dataPoint": now, "paramType": 'Sensor1', "paramValue": rand_num, "deviceId": mq.topic})
-        mq.data_publish({"dataPoint": now, "paramType": 'Sensor2', "paramValue": rand_num2, "deviceId": mq.topic})
+        for i in mq.topic:
+            mq.data_publish({"dataPoint": now, "paramType": 'Sensor1', "paramValue": rand_num, "deviceId": i})
+            mq.data_publish({"dataPoint": now, "paramType": 'Sensor2', "paramValue": rand_num2, "deviceId": i})
         time.sleep(1)
+
 
 
 def data_subscribe():
