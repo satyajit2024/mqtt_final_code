@@ -36,14 +36,14 @@ class MqttConnect:
         print("Connection failed:", rc)
         self._connected = False
 
-    def log_message(self, message):
+    def log_message(self, client, userdata, level, buf):
         try:
-            print("log: " + message)
+            print("log: " + buf)
         except Exception as e:
             print("Error" + str(e))
 
     def on_message(self, client, userdata, message):
-        self.log_message("Received message: " + str(message.payload.decode("utf-8")))
+        print("Received message: " + str(message.payload.decode("utf-8")))
 
     def connect_to_broker(self):
         try:
@@ -55,12 +55,12 @@ class MqttConnect:
 
     def data_publish(self, publish_data):
         if not self._connected:
-            self.log_message("Not connected to the broker.")
+            print("Not connected to the broker.")
             return
         publish_topic = publish_data["deviceId"]
         publish_data = json.dumps(publish_data)
         self._client.publish(publish_topic + "/data", publish_data)
-        self.log_message(f"Just published {str(publish_data)} to {publish_topic}")
+        print(f"Just published {str(publish_data)} to {publish_topic}")
     
     def on_sub_message(self , client, userdata, message):
         global status
