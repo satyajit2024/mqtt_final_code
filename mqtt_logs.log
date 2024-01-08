@@ -16,3 +16,215 @@
 2024-01-08 11:45:22 - Just published {"dataPoint": "2024-01-08 11:45:21", "paramType": "Sensor2", "paramValue": 1.6534376621342273, "deviceId": "661526019560586"} to 661526019560586
 2024-01-08 11:45:23 - Just published {"dataPoint": "2024-01-08 11:45:23", "paramType": "Sensor1", "paramValue": 1.9349019911832155, "deviceId": "661526019560586"} to 661526019560586
 2024-01-08 11:45:23 - Just published {"dataPoint": "2024-01-08 11:45:23", "paramType": "Sensor2", "paramValue": 1.9703376805848185, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:28 - Not connected to the broker.
+2024-01-08 12:04:28 - Just published {"dataPoint": "2024-01-08 12:04:28", "paramType": "Sensor2", "paramValue": 1.7098928703276215, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:29 - Just published {"dataPoint": "2024-01-08 12:04:29", "paramType": "Sensor1", "paramValue": 1.9613057067548423, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:29 - Just published {"dataPoint": "2024-01-08 12:04:29", "paramType": "Sensor2", "paramValue": 1.2240240485888791, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:31 - Just published {"dataPoint": "2024-01-08 12:04:30", "paramType": "Sensor1", "paramValue": 1.7162959257676533, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:31 - Just published {"dataPoint": "2024-01-08 12:04:30", "paramType": "Sensor2", "paramValue": 1.6960568484781886, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:32 - Just published {"dataPoint": "2024-01-08 12:04:32", "paramType": "Sensor1", "paramValue": 1.7620617277898258, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:32 - Just published {"dataPoint": "2024-01-08 12:04:32", "paramType": "Sensor2", "paramValue": 1.1262684307400828, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:37 - Not connected to the broker.
+2024-01-08 12:04:37 - Not connected to the broker.
+2024-01-08 12:04:38 - Just published {"dataPoint": "2024-01-08 12:04:38", "paramType": "Sensor1", "paramValue": 1.8440276613911473, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:38 - Just published {"dataPoint": "2024-01-08 12:04:38", "paramType": "Sensor2", "paramValue": 1.2164704142481508, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:39 - Just published {"dataPoint": "2024-01-08 12:04:39", "paramType": "Sensor1", "paramValue": 1.3207306153030443, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:39 - Just published {"dataPoint": "2024-01-08 12:04:39", "paramType": "Sensor2", "paramValue": 1.1278292649191286, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:40 - Just published {"dataPoint": "2024-01-08 12:04:40", "paramType": "Sensor1", "paramValue": 1.484485532549322, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:40 - Just published {"dataPoint": "2024-01-08 12:04:40", "paramType": "Sensor2", "paramValue": 1.4197772915515576, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:42 - Just published {"dataPoint": "2024-01-08 12:04:41", "paramType": "Sensor1", "paramValue": 1.7178153994460637, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:42 - Just published {"dataPoint": "2024-01-08 12:04:41", "paramType": "Sensor2", "paramValue": 1.831996437752268, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:43 - Just published {"dataPoint": "2024-01-08 12:04:43", "paramType": "Sensor1", "paramValue": 1.6136991523339064, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:43 - Just published {"dataPoint": "2024-01-08 12:04:43", "paramType": "Sensor2", "paramValue": 1.3662256738409182, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:44 - Received message: [{"display_id":661526019560586,"virtual_pin":"1","status":true}]
+2024-01-08 12:04:44 - Just published {"dataPoint": "2024-01-08 12:04:44", "paramType": "Sensor1", "paramValue": 1.096981490233842, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:44 - Just published {"dataPoint": "2024-01-08 12:04:44", "paramType": "Sensor2", "paramValue": 1.251715404470536, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:45 - Received message: [{"display_id":661526019560586,"virtual_pin":"1","status":false}]
+2024-01-08 12:04:45 - Just published {"dataPoint": "2024-01-08 12:04:45", "paramType": "Sensor1", "paramValue": 1.846130604203159, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:46 - Just published {"dataPoint": "2024-01-08 12:04:45", "paramType": "Sensor2", "paramValue": 1.6851451053795223, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:46 - Received message: [{"display_id":661526019560586,"virtual_pin":"1","status":true}]
+2024-01-08 12:04:47 - Just published {"dataPoint": "2024-01-08 12:04:47", "paramType": "Sensor1", "paramValue": 1.6928706337978867, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:47 - Just published {"dataPoint": "2024-01-08 12:04:47", "paramType": "Sensor2", "paramValue": 1.5002697367830198, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:47 - Received message: [{"display_id":661526019560586,"virtual_pin":"1","status":false}]
+2024-01-08 12:04:48 - Just published {"dataPoint": "2024-01-08 12:04:48", "paramType": "Sensor1", "paramValue": 1.2788581997324515, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:48 - Just published {"dataPoint": "2024-01-08 12:04:48", "paramType": "Sensor2", "paramValue": 1.6869246212871318, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:49 - Just published {"dataPoint": "2024-01-08 12:04:49", "paramType": "Sensor1", "paramValue": 1.1979554035455986, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:04:49 - Just published {"dataPoint": "2024-01-08 12:04:49", "paramType": "Sensor2", "paramValue": 1.677181093278544, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:05 - Not connected to the broker.
+2024-01-08 12:05:05 - Not connected to the broker.
+2024-01-08 12:05:06 - Just published {"dataPoint": "2024-01-08 12:05:06", "paramType": "Sensor1", "paramValue": 1.4593341439346155, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:06 - Just published {"dataPoint": "2024-01-08 12:05:06", "paramType": "Sensor2", "paramValue": 1.4097876711588233, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:07 - Just published {"dataPoint": "2024-01-08 12:05:07", "paramType": "Sensor1", "paramValue": 1.0475728462290952, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:07 - Just published {"dataPoint": "2024-01-08 12:05:07", "paramType": "Sensor2", "paramValue": 1.678817501723406, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:08 - Just published {"dataPoint": "2024-01-08 12:05:08", "paramType": "Sensor1", "paramValue": 1.1451235950111553, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:09 - Just published {"dataPoint": "2024-01-08 12:05:08", "paramType": "Sensor2", "paramValue": 1.6141516904790647, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:10 - Just published {"dataPoint": "2024-01-08 12:05:10", "paramType": "Sensor1", "paramValue": 1.0098431713898783, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:10 - Just published {"dataPoint": "2024-01-08 12:05:10", "paramType": "Sensor2", "paramValue": 1.6360026214898211, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:11 - Just published {"dataPoint": "2024-01-08 12:05:11", "paramType": "Sensor1", "paramValue": 1.6029697723284513, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:11 - Just published {"dataPoint": "2024-01-08 12:05:11", "paramType": "Sensor2", "paramValue": 1.6093957600542232, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:12 - Just published {"dataPoint": "2024-01-08 12:05:12", "paramType": "Sensor1", "paramValue": 1.2322947105045774, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:12 - Just published {"dataPoint": "2024-01-08 12:05:12", "paramType": "Sensor2", "paramValue": 1.0087844036777711, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:13 - Just published {"dataPoint": "2024-01-08 12:05:13", "paramType": "Sensor1", "paramValue": 1.6851092052139498, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:14 - Just published {"dataPoint": "2024-01-08 12:05:13", "paramType": "Sensor2", "paramValue": 1.1680137351197688, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:14 - Received message: [{"display_id":661526019560586,"virtual_pin":"1","status":true}]
+2024-01-08 12:05:15 - Just published {"dataPoint": "2024-01-08 12:05:15", "paramType": "Sensor1", "paramValue": 1.3682988323969107, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:15 - Just published {"dataPoint": "2024-01-08 12:05:15", "paramType": "Sensor2", "paramValue": 1.4283572753335236, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:16 - Just published {"dataPoint": "2024-01-08 12:05:16", "paramType": "Sensor1", "paramValue": 1.4991609047614816, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:16 - Just published {"dataPoint": "2024-01-08 12:05:16", "paramType": "Sensor2", "paramValue": 1.2883519154405347, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:16 - Received message: [{"display_id":661526019560586,"virtual_pin":"1","status":false}]
+2024-01-08 12:05:17 - Just published {"dataPoint": "2024-01-08 12:05:17", "paramType": "Sensor1", "paramValue": 1.4475102822304131, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:17 - Just published {"dataPoint": "2024-01-08 12:05:17", "paramType": "Sensor2", "paramValue": 1.0646548389271073, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:18 - Received message: [{"display_id":661526019560586,"virtual_pin":"1","status":true}]
+2024-01-08 12:05:19 - Just published {"dataPoint": "2024-01-08 12:05:18", "paramType": "Sensor1", "paramValue": 1.9443621634586827, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:19 - Just published {"dataPoint": "2024-01-08 12:05:18", "paramType": "Sensor2", "paramValue": 1.0277895492022506, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:19 - Received message: [{"display_id":661526019560586,"virtual_pin":"1","status":false}]
+2024-01-08 12:05:20 - Just published {"dataPoint": "2024-01-08 12:05:20", "paramType": "Sensor1", "paramValue": 1.5136132279477463, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:20 - Just published {"dataPoint": "2024-01-08 12:05:20", "paramType": "Sensor2", "paramValue": 1.5842581605368573, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:21 - Just published {"dataPoint": "2024-01-08 12:05:21", "paramType": "Sensor1", "paramValue": 1.8072626593121677, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:05:21 - Just published {"dataPoint": "2024-01-08 12:05:21", "paramType": "Sensor2", "paramValue": 1.0607046130704532, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:33 - Not connected to the broker.
+2024-01-08 12:07:34 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor2", "paramValue": 1.2579805530902508, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:35 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor1", "paramValue": 1.5068688749423733, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:35 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor2", "paramValue": 1.1910807874287261, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:36 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor1", "paramValue": 1.7054448148979497, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:36 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor2", "paramValue": 1.7399441233525854, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:36 - Received message: [{"display_id":661526019560586,"virtual_pin":"1","status":true}]
+2024-01-08 12:07:37 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor1", "paramValue": 1.9201443236008828, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:37 - Received message: [{"display_id":661526019560586,"virtual_pin":"1","status":false}]
+2024-01-08 12:07:37 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor2", "paramValue": 1.2004630890788222, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:38 - Received message: [{"display_id":661526019560586,"virtual_pin":"1","status":true}]
+2024-01-08 12:07:38 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor1", "paramValue": 1.5399695738225045, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:39 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor2", "paramValue": 1.5239708070731512, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:39 - Received message: [{"display_id":661526019560586,"virtual_pin":"1","status":false}]
+2024-01-08 12:07:40 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor1", "paramValue": 1.54315556467178, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:40 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor2", "paramValue": 1.3202759252169116, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:41 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor1", "paramValue": 1.8477363149919217, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:41 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor2", "paramValue": 1.6555314161696804, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:42 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor1", "paramValue": 1.4233249740854956, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:42 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor2", "paramValue": 1.1925740737067363, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:43 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor1", "paramValue": 1.9025124129020932, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:07:43 - Just published {"dataPoint": "2024-01-08 12:07:33", "paramType": "Sensor2", "paramValue": 1.8317748378926462, "deviceId": "661526019560586"} to 661526019560586
+2024-01-08 12:10:08 - Not connected to the broker.
+2024-01-08 12:10:08 - Not connected to the broker.
+2024-01-08 12:10:09 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.1467273445824642, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:09 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.2093369182783398, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:10 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.6577377068079135, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:10 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.7897755185315853, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:12 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.3576681583772519, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:12 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.4477565743933378, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:13 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.93243878378846, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:13 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.8628867931455981, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:14 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.7643633408792283, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:14 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.275402501212315, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:15 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.8453658833044448, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:15 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.7098463786611726, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:17 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.6258482236628296, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:17 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.025145466870938, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:18 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.1444945871702066, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:18 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.4626217266932762, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:19 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.4029900021037431, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:19 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.7323206125893567, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:20 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.7192459226925505, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:21 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.757430130093233, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:22 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.0727365691914401, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:22 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.0492198342071974, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:23 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.4596043147077649, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:23 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.1892796225690123, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:24 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.457952614154896, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:24 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.3337357341456033, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:25 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.194824775397237, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:26 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.7857125205364883, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:27 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.3057956926886383, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:27 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.3346796460822272, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:28 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.2683110942194455, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:28 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.8300619155681843, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:29 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.3524604190505172, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:29 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.0343532098855375, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:30 - Received message: [{"display_id":324164884510875,"virtual_pin":"1","status":true}]
+2024-01-08 12:10:31 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.4414056673977473, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:31 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.8526554488401925, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:31 - Received message: [{"display_id":324164884510875,"virtual_pin":"1","status":false}]
+2024-01-08 12:10:32 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.1179585504729317, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:32 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.6133656165386392, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:33 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.8974228225971823, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:33 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.1503729337327324, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:34 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.2614480453714523, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:34 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.5128850803222118, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:35 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.1547281878655502, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:36 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.6436904594929476, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:37 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.5125128176985259, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:37 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.9434647092639612, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:38 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.1345362013202824, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:38 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.7112149822320148, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:39 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.8255815213783717, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:39 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.43403322689676, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:40 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.5541338980004702, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:41 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.3507390672196344, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:42 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.496501365663197, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:42 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.8182074352630928, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:43 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor1", "paramValue": 1.216473969036984, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:10:43 - Just published {"dataPoint": "2024-01-08 12:10:08", "paramType": "Sensor2", "paramValue": 1.6137474609623617, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:23 - Not connected to the broker.
+2024-01-08 12:12:23 - Not connected to the broker.
+2024-01-08 12:12:24 - Just published {"dataPoint": "2024-01-08 12:12:24", "paramType": "Sensor1", "paramValue": 1.2083138869819883, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:24 - Just published {"dataPoint": "2024-01-08 12:12:24", "paramType": "Sensor2", "paramValue": 1.1334775870664724, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:25 - Just published {"dataPoint": "2024-01-08 12:12:25", "paramType": "Sensor1", "paramValue": 1.6573393560089111, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:25 - Just published {"dataPoint": "2024-01-08 12:12:25", "paramType": "Sensor2", "paramValue": 1.3787012164130865, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:26 - Just published {"dataPoint": "2024-01-08 12:12:26", "paramType": "Sensor1", "paramValue": 1.0030698581643582, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:26 - Just published {"dataPoint": "2024-01-08 12:12:26", "paramType": "Sensor2", "paramValue": 1.5116809018112929, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:27 - Just published {"dataPoint": "2024-01-08 12:12:27", "paramType": "Sensor1", "paramValue": 1.5286630488973625, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:28 - Just published {"dataPoint": "2024-01-08 12:12:27", "paramType": "Sensor2", "paramValue": 1.296226289538516, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:29 - Just published {"dataPoint": "2024-01-08 12:12:29", "paramType": "Sensor1", "paramValue": 1.715846358812894, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:29 - Just published {"dataPoint": "2024-01-08 12:12:29", "paramType": "Sensor2", "paramValue": 1.2513705392151062, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:30 - Just published {"dataPoint": "2024-01-08 12:12:30", "paramType": "Sensor1", "paramValue": 1.307344431400592, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:30 - Just published {"dataPoint": "2024-01-08 12:12:30", "paramType": "Sensor2", "paramValue": 1.515867537384672, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:31 - Just published {"dataPoint": "2024-01-08 12:12:31", "paramType": "Sensor1", "paramValue": 1.543554539894601, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:31 - Just published {"dataPoint": "2024-01-08 12:12:31", "paramType": "Sensor2", "paramValue": 1.1942449284626613, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:32 - Received message: [{"display_id":324164884510875,"virtual_pin":"1","status":true}]
+2024-01-08 12:12:32 - Just published {"dataPoint": "2024-01-08 12:12:32", "paramType": "Sensor1", "paramValue": 1.8910044313044876, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:33 - Just published {"dataPoint": "2024-01-08 12:12:32", "paramType": "Sensor2", "paramValue": 1.3982010610339675, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:33 - Received message: [{"display_id":324164884510875,"virtual_pin":"1","status":false}]
+2024-01-08 12:12:34 - Just published {"dataPoint": "2024-01-08 12:12:34", "paramType": "Sensor1", "paramValue": 1.1794209298931748, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:34 - Just published {"dataPoint": "2024-01-08 12:12:34", "paramType": "Sensor2", "paramValue": 1.7805301913712759, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:35 - Just published {"dataPoint": "2024-01-08 12:12:35", "paramType": "Sensor1", "paramValue": 1.8591963349589062, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:35 - Just published {"dataPoint": "2024-01-08 12:12:35", "paramType": "Sensor2", "paramValue": 1.2083861725685372, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:36 - Just published {"dataPoint": "2024-01-08 12:12:36", "paramType": "Sensor1", "paramValue": 1.6573721587006371, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:12:36 - Just published {"dataPoint": "2024-01-08 12:12:36", "paramType": "Sensor2", "paramValue": 1.9903427011438746, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:12 - Not connected to the broker.
+2024-01-08 12:13:12 - Not connected to the broker.
+2024-01-08 12:13:13 - Just published {"dataPoint": "2024-01-08 12:13:13", "paramType": "Sensor1", "paramValue": 1.4418441691381458, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:14 - Just published {"dataPoint": "2024-01-08 12:13:13", "paramType": "Sensor2", "paramValue": 1.3754929344542197, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:15 - Just published {"dataPoint": "2024-01-08 12:13:15", "paramType": "Sensor1", "paramValue": 1.0092220423604614, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:15 - Just published {"dataPoint": "2024-01-08 12:13:15", "paramType": "Sensor2", "paramValue": 1.8636806435351025, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:16 - Just published {"dataPoint": "2024-01-08 12:13:16", "paramType": "Sensor1", "paramValue": 1.091602573459653, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:16 - Just published {"dataPoint": "2024-01-08 12:13:16", "paramType": "Sensor2", "paramValue": 1.0950423417797701, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:17 - Just published {"dataPoint": "2024-01-08 12:13:17", "paramType": "Sensor1", "paramValue": 1.6688462372516821, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:18 - Just published {"dataPoint": "2024-01-08 12:13:17", "paramType": "Sensor2", "paramValue": 1.914812578872757, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:19 - Just published {"dataPoint": "2024-01-08 12:13:19", "paramType": "Sensor1", "paramValue": 1.792850905675747, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:19 - Just published {"dataPoint": "2024-01-08 12:13:19", "paramType": "Sensor2", "paramValue": 1.517475081697199, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:20 - Just published {"dataPoint": "2024-01-08 12:13:20", "paramType": "Sensor1", "paramValue": 1.9699703590452513, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:20 - Just published {"dataPoint": "2024-01-08 12:13:20", "paramType": "Sensor2", "paramValue": 1.4980818102898714, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:21 - Just published {"dataPoint": "2024-01-08 12:13:21", "paramType": "Sensor1", "paramValue": 1.462479012855738, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:21 - Just published {"dataPoint": "2024-01-08 12:13:21", "paramType": "Sensor2", "paramValue": 1.731515787969144, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:23 - Just published {"dataPoint": "2024-01-08 12:13:22", "paramType": "Sensor1", "paramValue": 1.6563940211168857, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:23 - Just published {"dataPoint": "2024-01-08 12:13:22", "paramType": "Sensor2", "paramValue": 1.5648821085057514, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:24 - Just published {"dataPoint": "2024-01-08 12:13:24", "paramType": "Sensor1", "paramValue": 1.3311106408009263, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:24 - Just published {"dataPoint": "2024-01-08 12:13:24", "paramType": "Sensor2", "paramValue": 1.5707122946987098, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:25 - Just published {"dataPoint": "2024-01-08 12:13:25", "paramType": "Sensor1", "paramValue": 1.9847780466323248, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:25 - Just published {"dataPoint": "2024-01-08 12:13:25", "paramType": "Sensor2", "paramValue": 1.4090756432448537, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:26 - Just published {"dataPoint": "2024-01-08 12:13:26", "paramType": "Sensor1", "paramValue": 1.8953269206710552, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:26 - Just published {"dataPoint": "2024-01-08 12:13:26", "paramType": "Sensor2", "paramValue": 1.8629089271910968, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:28 - Just published {"dataPoint": "2024-01-08 12:13:27", "paramType": "Sensor1", "paramValue": 1.1739169406872623, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:28 - Just published {"dataPoint": "2024-01-08 12:13:27", "paramType": "Sensor2", "paramValue": 1.2228096515584075, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:29 - Just published {"dataPoint": "2024-01-08 12:13:29", "paramType": "Sensor1", "paramValue": 1.2677180662405454, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:29 - Just published {"dataPoint": "2024-01-08 12:13:29", "paramType": "Sensor2", "paramValue": 1.397215465166784, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:30 - Received message: [{"display_id":324164884510875,"virtual_pin":"1","status":true}]
+2024-01-08 12:13:30 - Just published {"dataPoint": "2024-01-08 12:13:30", "paramType": "Sensor1", "paramValue": 1.4881869460856072, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:30 - Just published {"dataPoint": "2024-01-08 12:13:30", "paramType": "Sensor2", "paramValue": 1.0368451918336752, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:31 - Received message: [{"display_id":324164884510875,"virtual_pin":"1","status":false}]
+2024-01-08 12:13:31 - Just published {"dataPoint": "2024-01-08 12:13:31", "paramType": "Sensor1", "paramValue": 1.3322547636069335, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:31 - Just published {"dataPoint": "2024-01-08 12:13:31", "paramType": "Sensor2", "paramValue": 1.5399688215948197, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:32 - Just published {"dataPoint": "2024-01-08 12:13:32", "paramType": "Sensor1", "paramValue": 1.1655979717046268, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:33 - Just published {"dataPoint": "2024-01-08 12:13:32", "paramType": "Sensor2", "paramValue": 1.495824610853056, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:34 - Just published {"dataPoint": "2024-01-08 12:13:34", "paramType": "Sensor1", "paramValue": 1.0978797145754577, "deviceId": "324164884510875"} to 324164884510875
+2024-01-08 12:13:34 - Just published {"dataPoint": "2024-01-08 12:13:34", "paramType": "Sensor2", "paramValue": 1.870325227575304, "deviceId": "324164884510875"} to 324164884510875
