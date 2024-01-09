@@ -1,0 +1,30 @@
+///////////////
+Brocker id and password for Mosquitto
+    mqttBroker = "4.240.114.7"
+    port = 1883
+    username = "BarifloLabs"
+    password = "Bfl@123"
+////////////////
+
+
+/////////////////
+Microsoft Azure Username and password
+    Ip - 98.70.74.79
+    Username - EMQX
+    PASSWORD - Bfl@2024#emqx
+////////////////
+
+
+///////////////////
+Brocker admin id and PASSWORD FOR emqx
+    Username = admin
+    PASSWORD = admin@admin
+/////////////////
+
+
+/////////////////
+Brocker user id and PASSWORD FOR emqx BarifloLabs
+    username = "BarifloLabs"
+    password = "Bfl@12345"
+////////////////
+
