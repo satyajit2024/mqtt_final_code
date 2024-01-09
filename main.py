@@ -9,7 +9,7 @@ import threading
 
 mq = MqttConnect()
 mq.topic = ["661526019560586","324164884510875"]
-mqttBroker = "4.240.114.7"
+mqttBroker = "98.70.74.79"
 port = 1883
 username = "BarifloLabs"
 password = "Bfl@123"
