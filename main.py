@@ -9,11 +9,6 @@ import threading
 
 mq = MqttConnect()
 mq.topic = ["661526019560586","324164884510875"]
-mqttBroker = "98.70.74.79"
-port = 1883
-username = "BarifloLabs"
-password = "Bfl@123"
-
 
 def post_data_to_publish():
     mq.connect_to_broker()
@@ -32,8 +27,8 @@ def data_subscribe():
     mqtt_client = Client()
     mqtt_client.on_connect = mq.on_connect
     mqtt_client.on_message = mq.on_sub_message
-    mqtt_client.username_pw_set(username, password)
-    mqtt_client.connect(mqttBroker, port=port)
+    mqtt_client.username_pw_set(mq._username, mq._password)
+    mqtt_client.connect(mq._mqttBroker, port=mq._port)
     mqtt_client.loop_start()
     try:
         while True:

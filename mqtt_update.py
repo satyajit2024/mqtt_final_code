@@ -7,7 +7,7 @@ class MqttConnect:
         self.topic = []
         self._connected = False
         self._client = Client("MQTT")
-        self._mqttBroker = "98.70.74.79"
+        self._mqttBroker = "4.240.114.7"
         self._port = 1883
         self._username = "BarifloLabs"
         self._password = "Bfl@123"
