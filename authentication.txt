@@ -28,3 +28,7 @@ Brocker user id and PASSWORD FOR emqx BarifloLabs
     password = "Bfl@12345"
 ////////////////
 
+
+nohup ./main
+ps -ef |grep nohup
+kill -9 1787 787
