@@ -65,9 +65,10 @@ class MqttConnect:
     def on_sub_message(self , client, userdata, message):
         global status
         data = json.loads(message.payload.decode('utf-8'))
-        status = data[0]["status"]
-        print(f"Received message: {data}")
-        print(f"status val :---{status}")
+        print(data)
+        # status = data[0]["status"]
+        # print(f"Received message: {data}")
+        # print(f"status val :---{status}")
         
     
     def open_file(self , file_name):

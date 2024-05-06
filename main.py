@@ -8,18 +8,18 @@ import threading
 
 
 mq = MqttConnect()
-mq.topic = ["578689832956829","542484815423712"]
+mq.topic = ["578689832956829","542484815423712","372582595849208"]
 
 def post_data_to_publish():
     mq.connect_to_broker()
     while True:
         now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         for i in mq.topic:
-            rand_num = uniform(1.0, 2.0)
-            rand_num2 = uniform(1.0, 2.0)
+            rand_num = uniform(2.5,5.2)
+            rand_num2 = uniform(210.0 , 220.0)
             mq.data_publish({"dataPoint": now, "paramType": 'current', "paramValue": rand_num, "deviceId": i})
             mq.data_publish({"dataPoint": now, "paramType": 'voltage', "paramValue": rand_num2, "deviceId": i})
-        time.sleep(1)
+        time.sleep(5)
 
 
 
