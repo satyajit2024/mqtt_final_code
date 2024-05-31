@@ -53,7 +53,7 @@ class MqttConnect:
         except Exception as e:
             print(f"Error during connection: {e}")
 
-    def data_publish(self, publish_data):
+    def data_publish(self, **publish_data):
         if not self._connected:
             print("Not connected to the broker.")
             return

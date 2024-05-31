@@ -4,21 +4,31 @@ from datetime import datetime
 from random import uniform
 from paho.mqtt.client import Client
 import threading
+import redis
 
 mq = MqttConnect()
 mq.topic = ["299104867328041"]
-
+redis_cli = redis.Redis(host="98.70.76.242",port=6379,password="Bfl@2024#redis",db=0)
 stop_event = threading.Event()
 
+def set_data_to_redis(expire_time=None,**kwargs):
+    global redis_cli
+    print("Data....",kwargs)
+    device_id = kwargs["deviceId"]
+    redis_cli.hset(f"cpu_temp/{device_id}",mapping=kwargs)
+    if expire_time:
+        redis_cli.expire(f"cpu_temp/{device_id}", expire_time)
+    print("Data Saved Successfully........")
+    
 def post_data_to_publish():
-    mq.connect_to_broker()
+    # mq.connect_to_broker()
     while not stop_event.is_set():
         now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         for i in mq.topic:
             rand_num = uniform(2.5, 5.2)
-            rand_num2 = uniform(210.0, 220.0)
-            mq.data_publish({"dataPoint": now, "paramType": 'current', "paramValue": rand_num, "deviceId": i})
-            mq.data_publish({"dataPoint": now, "paramType": 'voltage', "paramValue": rand_num2, "deviceId": i})
+            cpu_temp = {"dataPoint": now, "paramType": 'cpu_temp', "paramValue": rand_num, "deviceId": i}
+            # mq.data_publish(**cpu_temp)
+            set_data_to_redis(expire_time=10,**cpu_temp)
         time.sleep(5)
 
 def data_subscribe():
