@@ -4,21 +4,13 @@ from datetime import datetime
 from random import uniform
 from paho.mqtt.client import Client
 import threading
-import redis
+from set_redis import set_data_to_redis
 
 mq = MqttConnect()
-mq.topic = ["299104867328041"]
-redis_cli = redis.Redis(host="98.70.76.242",port=6379,password="Bfl@2024#redis",db=0)
+mq.topic = ["847120588896324","588345813372649"]
 stop_event = threading.Event()
 
-def set_data_to_redis(expire_time=None,**kwargs):
-    global redis_cli
-    print("Data....",kwargs)
-    device_id = kwargs["deviceId"]
-    redis_cli.hset(f"cpu_temp/{device_id}",mapping=kwargs)
-    if expire_time:
-        redis_cli.expire(f"cpu_temp/{device_id}", expire_time)
-    print("Data Saved Successfully........")
+
     
 def post_data_to_publish():
     # mq.connect_to_broker()
