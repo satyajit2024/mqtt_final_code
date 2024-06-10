@@ -7,20 +7,20 @@ import threading
 from set_redis import set_data_to_redis
 
 mq = MqttConnect()
-mq.topic = ["847120588896324","588345813372649"]
+mq.topic = ["847120588896324"]
 stop_event = threading.Event()
 
 
     
 def post_data_to_publish():
-    # mq.connect_to_broker()
+    mq.connect_to_broker()
     while not stop_event.is_set():
         now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         for i in mq.topic:
             rand_num = uniform(2.5, 5.2)
-            cpu_temp = {"dataPoint": now, "paramType": 'cpu_temp', "paramValue": rand_num, "deviceId": i}
-            # mq.data_publish(**cpu_temp)
-            set_data_to_redis(expire_time=10,**cpu_temp)
+            cpu_temp = {"dataPoint": now, "paramType": 'cpu_temp', "paramValue": rand_num, "deviceId": i,f"status/{565988520125275}":True}
+            mq.data_publish(**cpu_temp)
+            # set_data_to_redis(expire_time=10,**cpu_temp)
         time.sleep(5)
 
 def data_subscribe():
